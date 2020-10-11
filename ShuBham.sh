@@ -157,8 +157,7 @@ elif [ "$download" -eq "2"  ]; then
  echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/ShuBhamg0sain/ShuBham
- cd ShuBham
+ git clone https://github.com/ShuBhamg0sain/sg
  cd sg
  chmod +x *
  clear
